@@ -50,5 +50,5 @@ jobs:
             # 4) Correr contenedor usando ese .env
             docker run -d --name product_container \
               --env-file .env \
-              -p 3001:3001 \
+              -p 3000:3000 \
               anggeloo/microservice-product-search:latest
