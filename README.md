@@ -51,7 +51,7 @@ Create a `.env` file in the root directory and configure the required variables.
 ## API Documentation
 This service provides API documentation via Swagger. Once the service is running, access it at:
 ```
-http://localhost:3000/api-docs
+http://localhost:5050/api-docs
 ```
 
 ## Database Setup
